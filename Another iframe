@@ -1,0 +1,8 @@
+
+down vote
+Put the Iframe between aside tags
+
+<aside style="background-color:#FFF"> your IFRAME </aside>
+
+
+
